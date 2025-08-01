@@ -13,7 +13,7 @@ export default function Header() {
         <a href="">Contact Me</a>
       </nav>
       <div className="social-links">
-        <a href="">
+        <a href="" title="LinkedIn link">
           <LinkedIn />
         </a>
         <a href="">
